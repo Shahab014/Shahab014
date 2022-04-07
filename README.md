@@ -18,8 +18,9 @@ I'm a Final Year Software Engineering/CS Student [@Sri Manakula Vinayagar Engine
 
 - I'm currently studying in ... [MCA @Sri Manakula Vinayagar Engineering College](https://smvec.ac.in/) at Puducherry - 605107
 - 🌱 I’m currently learning Software Engineering , Software Architecture and Most Famous Design Patterns
+- 👨‍💻 All of Github Respositories are available  [here](https://github.com/Shahab014?tab=repositories)
 - 👯 Looking for an internship or opportunity.
-<!-- - 👨‍💻 All of Github Respositories are available  [here](https://github.com/adarsh7here?tab=repositories) -->
+
 
 
 
