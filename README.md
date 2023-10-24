@@ -27,13 +27,15 @@ I'm a Final Year Software Engineering/CS Student [@Sri Manakula Vinayagar Engine
 #### Languages
 
 ![C](https://img.shields.io/badge/-C-fff?&logo=c%2b%2b&logoColor=00599C)
+![C#](https://img.shields.io/badge/-CSharp-fff?&logo=CSharp&logoColor=ddc508)
 ![C++](https://img.shields.io/badge/-Python-fff?&logo=python&logoColor=00599C)
 ![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)
 
 ![HTML](https://img.shields.io/badge/-HTML-fff?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-fff?&logo=CSS3&logoColor=blue)
 ![PHP](https://img.shields.io/badge/-php-fff?&logo=php&logoColor=ddc508)
-![REACTJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![ANGULAR](https://img.shields.io/badge/-Angular-fff?&logo=angular&logoColor=ddc508)
+![REACTJS](https://img.shields.io/badge/-ReactJs-fff?&logo=react&logoColor=ddc508)
 
 
 
