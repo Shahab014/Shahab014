@@ -34,7 +34,7 @@ I'm Fresher, who is passionate about software engineering, Full Stack Developmen
 
 ![HTML](https://img.shields.io/badge/-HTML-fff?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-fff?&logo=CSS3&logoColor=blue)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=TypeScript)
 ![ANGULAR](https://img.shields.io/badge/-Angular-fff?&logo=angular&logoColor=ddc508)
 ![REACTJS](https://img.shields.io/badge/-ReactJs-fff?&logo=react&logoColor=ddc508)
 ![.NET](https://img.shields.io/badge/-.Net-blue?style=flat&logo=.net)
